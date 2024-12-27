@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+a {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-right: 20px !important; /* Ajoute un espace entre les liens */
+  }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
